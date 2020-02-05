@@ -31,7 +31,7 @@
                                 </subviews>
                             </stackView>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Zh6-Th-PVx">
-                                <rect key="frame" x="0.0" y="406" width="414" height="387"/>
+                                <rect key="frame" x="0.0" y="406" width="414" height="396"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="cellSiswa" textLabel="Zmv-sp-2lN" detailTextLabel="TW9-wc-c7d" style="IBUITableViewCellStyleSubtitle" id="lwF-nT-c54">
@@ -72,7 +72,7 @@
                                 </connections>
                             </button>
                             <view contentMode="scaleToFill" id="Jsy-ir-BR9" customClass="GADBannerView">
-                                <rect key="frame" x="0.0" y="793" width="414" height="69"/>
+                                <rect key="frame" x="0.0" y="802" width="414" height="60"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             </view>
